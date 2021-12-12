@@ -1,1 +1,1 @@
-# random-user-from-api
+# random_user_with_avatar
